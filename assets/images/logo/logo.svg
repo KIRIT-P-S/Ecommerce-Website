@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 40" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #202020;
+                font-family: Arial, sans-serif;
+                font-weight: bold;
+            }
+        </style>
+    </defs>
+    <rect width="140" height="40" fill="#ffffff"/>
+    <!-- Letter "E" -->
+    <path class="cls-1" d="M10 30 V10 H25 V15 H15 V20 H22 V25 H15 V30 Z"/>
+    <!-- Letter "P" -->
+    <path class="cls-1" d="M30 30 V10 H45 Q50 10 50 15 Q50 20 45 20 H35 V30 Z M35 15 H43 Q45 15 45 13 Q45 11 43 11 H35 Z"/>
+    <!-- Letter "I" -->
+    <rect class="cls-1" x="55" y="10" width="5" height="20"/>
+    <!-- Letter "C" -->
+    <path class="cls-1" d="M70 30 Q65 30 65 25 V15 Q65 10 70 10 Q75 10 75 15 H70 Q67 15 67 17 V23 Q67 25 70 25 H75 Q75 30 70 30 Z"/>
+</svg>
+ 
